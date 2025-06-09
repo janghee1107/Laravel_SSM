@@ -3,7 +3,7 @@
 </h1>
 <p>개발 기간 : 23.09~ 23.11  </p>
 <p>언어 : PHP      </p>
-<p>프레임워크 : Laravel></p>
+<p>프레임워크 : Laravel</p>
 <p>DB : MariaDB      </p>
 <h2>sale -> SSM </h2>
 <p>설명 : 제품들에 대한 매입 및 매출량을 확인할 수 있는 기능 <br>
